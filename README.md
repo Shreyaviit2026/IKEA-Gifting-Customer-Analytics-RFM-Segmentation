@@ -1,6 +1,8 @@
 # IKEA Gifting: Customer Analytics and RFM Segmentation
 
 *An end to end data analytics project using SQL, Python, and Power BI*
+
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-pandas-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Analysis-F37626?style=flat&logo=jupyter&logoColor=white)
