@@ -2,10 +2,6 @@
 
 *An end to end data analytics project using SQL, Python, and Power BI*
 
-**Author:** Mansi Goel | YouTube: [Mansi G.](https://www.youtube.com/@Mansi.goel.offical) | Analytics Engineer
-
----
-
 ## Disclaimer
 
 **IKEA Gifting** is a fictional company name created for this educational portfolio project. It is not affiliated with, endorsed by, or representative of the real IKEA corporation in any way. All financial figures, customer counts, and business metrics shown in this project are derived entirely from a public, anonymized transactional dataset and do not reflect any real company's actual performance. The IKEA visual branding used in the dashboard is for design and storytelling purposes only.
@@ -130,7 +126,5 @@ rfm['M_Score'] = pd.qcut(rfm['Monetary'], 5, labels=[1, 2, 3, 4, 5]).astype(int)
 
 ---
 
-## Connect
 
-This project is on my YouTube channel, **Mansi G.**, where I break down real, end to end data analyst projects for freshers and early career professionals. Full build walkthrough video linked above.
 
